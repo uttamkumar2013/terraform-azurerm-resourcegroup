@@ -1,0 +1,1 @@
+This module will help you to crete the resource group in Azure cloud
